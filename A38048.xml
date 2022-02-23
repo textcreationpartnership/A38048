@@ -1,0 +1,201 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The petition and articles exhibited in Parliament against Dr. Fvller, deane of Ely and vicar of S. Giles Cripple-gate with the petition exhibited in Parliament against Timothy Hutton, curate of the said parish by the parishioners of Saint Giles : wherein are discovered many popish innovations and disservice to the church and placing such to officiate who preferre the play-house and the taverne before the performance of their office in the church, as may appeare by the said articles.</title>
+            <author>Saint Giles in the Fields Parish Church (London, England)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38048</idno>
+            <idno type="STC">Wing E2154</idno>
+            <idno type="STC">ESTC R4966</idno>
+            <idno type="EEBO-CITATION">12792660</idno>
+            <idno type="OCLC">ocm 12792660</idno>
+            <idno type="VID">93955</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38048)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 93955)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 256:E175, no 1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The petition and articles exhibited in Parliament against Dr. Fvller, deane of Ely and vicar of S. Giles Cripple-gate with the petition exhibited in Parliament against Timothy Hutton, curate of the said parish by the parishioners of Saint Giles : wherein are discovered many popish innovations and disservice to the church and placing such to officiate who preferre the play-house and the taverne before the performance of their office in the church, as may appeare by the said articles.</title>
+                  <author>Saint Giles in the Fields Parish Church (London, England)</author>
+                  <author>Fuller, William, 1579 or 80-1659, defendant.</author>
+                  <author>Hutton, Timothy, d. 1672?, defendant.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fuller, William, 1579 or 80-1659 --  Trials, litigation, etc.</term>
+               <term>Hutton, Timothy, d. 1672? --  Trials, litigation, etc.</term>
+               <term>Great Britain --  Religion --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:93955:1"/>
+            <pb facs="tcp:93955:1" rendition="simple:additions"/>
+            <p>THE PETITION AND ARTICLES EXHIBITED IN PARLIAMENT Againſt D<hi rend="sup">r</hi> FVLLER, DEANE OF ELY, AND Vicar of <hi>S.</hi> Giles Cripple-gate. WITH THE PETITION Exhibited in Parliament againſt <hi>Timothy Hutton,</hi> Curate of the ſaid Pariſh, By the Pariſhioners of Saint Giles.</p>
+            <p>Wherein are diſcovered many Popiſh Innovations, and diſſervice to the Church, and placing ſuch to officiate, who pre<g ref="char:EOLhyphen"/>ferre the Play-houſe and the Taverns before the per<g ref="char:EOLhyphen"/>formance of their Office in the Church, as may appeare by the ſaid Articles.</p>
+            <p>LONDON. Printed 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:93955:2"/>
+            <pb facs="tcp:93955:2"/>
+            <head>TO THE HONOVRABLE THE Knights. Citizens<g ref="char:punc">▪</g> and Burgeſſes, <hi>Nowaſſembled in PARLIAMENT.</hi>
+            </head>
+            <head type="sub">The humble Petition of divers of the Pariſhioners <hi>of St. Giles Cripple-gato,</hi> London.</head>
+            <opener>HUMBLY SHEWING,</opener>
+            <p>THat the ſaid Pariſh is very great, conſi<g ref="char:EOLhyphen"/>ſting of 40000 ſoules, or thereabouts, ha<g ref="char:EOLhyphen"/>ving no conſtant Preaching Miniſter a<g ref="char:EOLhyphen"/>mongſt them, although the Living be worth ſeven hundred pounds, <hi>per annum,</hi> to the preſent incum<g ref="char:EOLhyphen"/>bent <hi>William Fuller</hi> Dr. in Divinity, who being a Popiſh Innovator, broacheth very pernitious &amp;c dangerous Doctrines, imployeth to officiate for him, men ſcandalous in life, &amp; by a ſelected veſtry fit for his turne, doth grievouſly oppreſſe the ſaid <hi>Pariſhioners:</hi> as will further appeare by the Schedule of Articles hereunto annexed.</p>
+            <p>
+               <hi>May it therefore pleaſe this Honourable Houſe, to take into conſideration theſe Premiſes, vvith the ſeverall</hi> Articles <hi>annexed, and to grant ſuch reliefe herein, as to your great vviſedomes ſhall ſeeme moſt meet.</hi>
+            </p>
+            <closer>
+               <signed>And your Petitioners ſhall pray, &amp;c.</signed>
+            </closer>
+         </div>
+         <div type="article">
+            <pb facs="tcp:93955:3"/>
+            <head>THE ARTICLES EXHIBITED In Parliament againſt D<hi rend="sup">r</hi>. Fuller <hi>
+                  <g ref="char:V">Ʋ</g>icar</hi> of St. Giles Cripple-Gate.</head>
+            <p>THe ſaid Dr. Fuller in the Petition before mentioned, hath Pluralities of livings, and thereby is a <hi>Non-Reſident,</hi> allowing no Sermons on the Lords day in the afternoone for many moneths together, and if any at all, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ne but ſcandalous livers have uſually ſupplye<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the place.</p>
+            <p n="2">2. He uſeth ſuperſtitious cringing and bowing to the Communion table, and the name Ieſus, hol<g ref="char:EOLhyphen"/>ding ſuch a venerable eſteeme of the Ray los about the Table; that he hath cauſed divers perſons for reſting thereon in Sermon time, to bee violently thruſt out of the church, to the great diſturbance of the <hi>Congregation,</hi> but ſlubbereth over the Sa<g ref="char:EOLhyphen"/>crament of Baptiſme when the <hi>Congregation</hi> is ap<g ref="char:EOLhyphen"/>pointed to ſing a pſalme: ſo that they cannot mind the duty to joyne with them in prayer.</p>
+            <p n="3">3. He hath cauſed the new <hi>Canons</hi> with the Oath to be publiſhed in our church, urging obedience
+<pb facs="tcp:93955:3"/>thereunto, ſaying, we have been faine to eſtabliſh the Kings regall power, and wee have taken great paines to eſtabliſh this for you, hee being then a convocation man.</p>
+            <p n="4">4 He hath publiſhed in the pulpit, that all our eſtates are at the <hi>Kings</hi> diſpoſing, and that th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e is no difference betweene our church of <hi>England,</hi> and the church of <hi>Rome,</hi> in matter of ſubſtance, but in circumſtance onely, which might eaſily bee re<g ref="char:EOLhyphen"/>conciled.</p>
+            <p n="5">5 He hath affirmed in his Sermon, ſince the Arch-biſhops impriſonment, that there were di<g ref="char:EOLhyphen"/>vers who ſought the life of the Arch-biſhop, but if they did obtain it, God would require his brood at their hands.</p>
+            <p n="6">6 The ſaid Dr. hath cauſeleſly ſued and excom<g ref="char:EOLhyphen"/>municated divers poore pariſhioners, for that they refuſed to pay his pretended dues leſt unpaid by the former Inhabitants in their houſes, enforcing them to ſell their houſhold ſtuff to pay the ſame.</p>
+            <p n="7">7 The ſaid <hi>Dr.</hi> and his Subſtitutes have exacted divers ſummes of money for Burials &amp; other <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> refuſing to officiate in caſes of neceſſity, without compoſition before hand, forcing thereby the Pa<g ref="char:EOLhyphen"/>riſhioners to bury the dead themſelves, &amp; to keep their children unbaptized halfe a yeare together.</p>
+            <p n="8">8 The ſaid Dr. by his conclave, or ſelected Ve<g ref="char:EOLhyphen"/>ſtry, exerciſeth tyranny over the eſtates and liber<g ref="char:EOLhyphen"/>ties of the ſaid Pariſhioners, by injurious taxing, and levying divers ſummes of money, eaſing them ſelves, and burd'ning others therein, diſpoſing of the principall Officers at their pleaſure, preferring
+<pb facs="tcp:93955:4"/>friends and Allyes (though ſcandalous in life) and keeping out godly &amp; well-affected perſons, under the name of Puritan's.</p>
+            <p n="9">9 The ſaid Dr. <hi>Fuller</hi> hath ſo ill provided for this ſo great a Pariſh, that beſides much other diſſer<g ref="char:EOLhyphen"/>vice: there having certaine Pariſhioners attended to ſee the chriſtian buriall of a dead corps, could neither find the ſaid Doctor or his Curate, though having notice before thereof: after that alſo, ano<g ref="char:EOLhyphen"/>ther Corps, then a third, all attending in the church yard, And at the laſt; hearing that Timothy Hut<g ref="char:EOLhyphen"/>ton his <hi>Curate,</hi> was at the <hi>Fortune</hi> to ſee a <hi>Play,</hi> they ſent to deſire him, to officiate for the three corps: but hee would by no meanes come; then they ſent a ſecond, and a third time alſo, certifying how long they had there waited: yet would the ſaid Timothy Hutton by no meanes come, untill ſuch time that the play was ended.</p>
+            <p n="10">10 The ſaid Doctor Fuller hath ſo oppreſt the ſaid pariſh, by profane and ungodly perſons, to of<g ref="char:EOLhyphen"/>ficiate for him, as have given very ill examples, &amp; of dangerous conſequent to evill-affected people in the pariſh, as the ſaid Timothy Hutton; who hath from his pulpit repaired to the <hi>taverne</hi> on the Lords day, <hi>and there drinking uncivilly,</hi> danced and ſung moſt profaine, &amp; <hi>ungodly ſongs, &amp; dances,</hi> to the ſhame and diſgrace of Religion, and to the griefe of many Godly people, who tooke Notice thereof.</p>
+         </div>
+         <div type="petition">
+            <pb facs="tcp:93955:4"/>
+            <head>THE HUMBLE PETITION Of divers of the <hi>Puriſhioners</hi> of St. <hi>Giles Cripple-Gate, London,</hi> againſt Timothy Hutton, Curate.</head>
+            <opener>
+               <salute>Humbly ſhewing,</salute>
+            </opener>
+            <p>THat on <hi>Thurſday,</hi> being the 15. day of <hi>October</hi> 16<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>1, at ten of the clock in the morning, <hi>Iohn Sedgwick,</hi> Batchelor in Divinity, an Orthodox Mi<g ref="char:EOLhyphen"/>niſter of the Church of <hi>England,</hi> together with a Congregation of about foure hundred perſons, all Pariſhioners of St. <hi>Giles Cripplegate, London;</hi> waited at the Church doore of St. Giles a<g ref="char:EOLhyphen"/>foreſaid, expecting the opening of the church doores, for the continuance of a weekly Lecture there; begun that day ſeven night by the ſaid Mr. <hi>Sedgwick,</hi> according to an Order of the ſaid Houſe dated the viij. day of September laſt. And after one honres attendance in the raine, they were com<g ref="char:EOLhyphen"/>pelled to depart from the church door, being kept out, by the command of <hi>VVilliam Fuller,</hi> vicar there, <hi>Timothy Hutton</hi> his Curate, <hi>Thomas Bough, Godfrey Holmes, Samuel Taylor, Ionathan Goldſmith,</hi> Church-wardens, <hi>Richard Harwood,</hi> and <hi>William Guly, Sextons,</hi> all Agents for the ſaid vicar, <hi>Iames Andrewes,</hi> and <hi>Hutchins,</hi> pretended <hi>Clarkes</hi> of
+<pb facs="tcp:93955:5"/>the ſaid Pariſh: all enemies to the Reformation intended, and diſturbers of the peace of the ſaid <hi>Congregation.</hi>
+            </p>
+            <p>This deboiſt Curate was taken out of the kennell drunk, at midnight, in a moſt lamentable caſe, &amp; was for<g ref="char:EOLhyphen"/>ced by a Juſtice of peace, not long ſince, to pay a ſhillings for ſwearing of two Oaths. His freſheſt Deploit was at a late Annuall Feaſt: whereunto being ſent to invite a Noble Pariſhioner, who gave him 20 <abbr>s.</abbr> to carry the Ste<g ref="char:EOLhyphen"/>wards, to helpe beare their Charge and expences. He de<g ref="char:EOLhyphen"/>ivered onely ten ſhillings to them, and reſerved the reſt of the money to himſelfe; which knaviſh pranke being afterwards diſcovered, occaſioned theſe following verſes.</p>
+            <q>
+               <l>WHy how now <hi>Hutton,</hi> art thou grown ſo poore,</l>
+               <l>That thou eſteem'ſt thy credit worth no mare</l>
+               <l>Then halfe a piece: me thinkes its very ſtrange,</l>
+               <l>That one of your Frofeſſion ſhould exchange</l>
+               <l>Plaine dealing, for to get a little pelfe;</l>
+               <l>Sure you were drunke, at leaſt were not your ſelfe:</l>
+               <l>When as you wont t'invite that Noble Gueſt,</l>
+               <l>
+                  <g ref="char:V">Ʋ</g>nto your Pariſh-Cockneyes yearely Feaſt,</l>
+               <l>A buſineſſe wherewith any Porter might,</l>
+               <l>Have bin entruſted, and have dealt upright.</l>
+               <l>Yet you a <hi>Pulpeciere,</hi> the more's the pitty,</l>
+               <l>Wee have too many ſuch within the Cittie:</l>
+               <l>But He forbeare, and ſo conclude in few words,</l>
+               <l>Wiſhing the <hi>Cockney's</hi> to get better Stewards;</l>
+               <l>For thou art bafe, conſider of is <hi>Hutton,</hi>
+               </l>
+               <l>Thy Credit hence forth, is not worth a <hi>Button.</hi>
+               </l>
+            </q>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
